@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sam's Thunder Transfert</string>
+    <string name="app_short_name">STT</string>
+    <string name="home_description">P2P Transfer without server storage • 100% Free</string>
+    <string name="home_send">SEND</string>
+    <string name="home_receive">RECEIVE</string>
+    <string name="home_offline_mode">Offline mode available</string>
+    <string name="home_offline_desc">Wi-Fi Direct • Even without Internet</string>
+    <string name="send_select_files">Tap to choose files</string>
+    <string name="send_file_types">Videos, audio, documents...</string>
+    <string name="send_compress">Compress before sending</string>
+    <string name="send_generate_code">GENERATE CODE</string>
+    <string name="send_your_code">Your code</string>
+    <string name="send_waiting">Waiting for recipient...</string>
+    <string name="receive_enter_code">Enter the code</string>
+    <string name="receive_ask_code">Ask the sender for the 6-digit code</string>
+    <string name="receive_scan_qr">Scan QR Code</string>
+    <string name="receive_connect">CONNECT</string>
+    <string name="receive_file_received">File received</string>
+    <string name="receive_accept">ACCEPT</string>
+    <string name="receive_refuse">REFUSE</string>
+    <string name="transfer_completed">Completed</string>
+    <string name="transfer_failed">Failed</string>
+    <string name="transfer_finish">Finish</string>
+    <string name="error_room_expired">Code expired (10 minutes)</string>
+</resources>
