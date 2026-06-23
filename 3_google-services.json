@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "123456789",
-    "project_id": "sam-thunder-transfert",
-    "storage_bucket": "sam-thunder-transfert.appspot.com"
+    "project_number": "596330248036",
+    "project_id": "sam-s-thunder-transfert",
+    "storage_bucket": "sam-s-thunder-transfert.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123456789:android:abcdef123456",
+        "mobilesdk_app_id": "1:596330248036:android:72aed055bed2595fe12c71",
         "android_client_info": {
-          "package_name": "com.sam.stt"
+          "package_name": "com.sam.sst"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "YOUR_API_KEY_HERE"
+          "current_key": "AIzaSyBOD4u-Py_jl7xZEMqA_NTmGqkDnLF_Oro"
         }
       ],
       "services": {
@@ -27,5 +27,3 @@
   ],
   "configuration_version": "1"
 }
-// IMPORTANT : Remplace ce fichier par le vrai google-services.json
-// depuis la console Firebase : https://console.firebase.google.com
