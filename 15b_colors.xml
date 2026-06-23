@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_background">#FF0A0A0F</color>
+    <color name="surface_dark">#FF14141F</color>
+    <color name="surface_light">#FF1E1E2E</color>
+    <color name="yellow_thunder">#FFFFD700</color>
+    <color name="yellow_thunder_bright">#FFFFE44D</color>
+    <color name="blue_lightning">#FF00BFFF</color>
+    <color name="blue_lightning_bright">#FF4DD2FF</color>
+    <color name="text_white">#FFF0F0F5</color>
+    <color name="text_gray">#FF8A8A9A</color>
+    <color name="text_muted">#FF5A5A6A</color>
+    <color name="success_green">#FF00C853</color>
+    <color name="error_red">#FFFF1744</color>
+    <color name="warning_orange">#FFFF9100</color>
+    <color name="info_blue">#FF2979FF</color>
+</resources>

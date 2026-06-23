@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Français (par défaut) -->
+    <string name="app_name">Sam's Thunder Transfert</string>
+    <string name="app_short_name">STT</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Accueil</string>
+    <string name="nav_send">Envoyer</string>
+    <string name="nav_receive">Recevoir</string>
+    <string name="nav_history">Historique</string>
+    <string name="nav_favorites">Favoris</string>
+    <string name="nav_settings">Paramètres</string>
+
+    <!-- Accueil -->
+    <string name="home_title">⚡ STT ⚡</string>
+    <string name="home_subtitle">Sam's Thunder Transfert</string>
+    <string name="home_description">Transfert P2P sans stockage serveur • 100% Gratuit</string>
+    <string name="home_send">ENVOYER</string>
+    <string name="home_receive">RECEVOIR</string>
+    <string name="home_history">Historique</string>
+    <string name="home_favorites">Favoris</string>
+    <string name="home_offline_mode">Mode hors-ligne disponible</string>
+    <string name="home_offline_desc">Wi-Fi Direct • Même sans Internet</string>
+
+    <!-- Envoi -->
+    <string name="send_title">Envoyer</string>
+    <string name="send_select_files">Touchez pour choisir des fichiers</string>
+    <string name="send_file_types">Vidéos, audio, documents...</string>
+    <string name="send_compress">Compresser avant envoi</string>
+    <string name="send_compress_hint">Plus rapide</string>
+    <string name="send_generate_code">GÉNÉRER LE CODE</string>
+    <string name="send_your_code">Votre code</string>
+    <string name="send_waiting">En attente du destinataeur...</string>
+    <string name="send_share">Partager</string>
+    <string name="send_cancel">Annuler</string>
+    <string name="send_files_selected">fichier(s) sélectionné(s)</string>
+    <string name="send_ready">Prêt à envoyer</string>
+
+    <!-- Réception -->
+    <string name="receive_title">Recevoir</string>
+    <string name="receive_enter_code">Entrer le code</string>
+    <string name="receive_ask_code">Demandez le code à 6 chiffres à l'envoyeur</string>
+    <string name="receive_scan_qr">Scanner un QR Code</string>
+    <string name="receive_connect">SE CONNECTER</string>
+    <string name="receive_connecting">Connexion en cours...</string>
+    <string name="receive_file_received">Fichier reçu</string>
+    <string name="receive_accept">ACCEPTER</string>
+    <string name="receive_refuse">REFUSER</string>
+    <string name="receive_name">Nom</string>
+    <string name="receive_size">Taille</string>
+    <string name="receive_type">Type</string>
+    <string name="receive_from">De</string>
+    <string name="receive_anonymous">Anonyme</string>
+
+    <!-- Transfert -->
+    <string name="transfer_waiting">En attente...</string>
+    <string name="transfer_in_progress">Transfert en cours</string>
+    <string name="transfer_paused">En pause</string>
+    <string name="transfer_completed">Terminé</string>
+    <string name="transfer_failed">Échoué</string>
+    <string name="transfer_cancelled">Annulé</string>
+    <string name="transfer_pause">Pause</string>
+    <string name="transfer_resume">Reprendre</string>
+    <string name="transfer_cancel">Annuler</string>
+    <string name="transfer_open">Ouvrir</string>
+    <string name="transfer_finish">Terminer</string>
+    <string name="transfer_retry">Réessayer</string>
+    <string name="transfer_time_remaining">Temps restant : %s</string>
+
+    <!-- Langues -->
+    <string name="lang_french">Français</string>
+    <string name="lang_english">English</string>
+    <string name="lang_japanese">日本語</string>
+    <string name="lang_german">Deutsch</string>
+    <string name="lang_kabiye">Kabiyé</string>
+    <string name="lang_ewe">Éwé</string>
+    <string name="lang_nawdm">Nawdm</string>
+    <string name="lang_select">Langue / Language</string>
+    <string name="lang_cancel">Annuler</string>
+
+    <!-- Statuts -->
+    <string name="status_ready">Prêt</string>
+    <string name="status_connected">Connecté</string>
+    <string name="status_disconnected">Déconnecté</string>
+    <string name="status_error">Erreur</string>
+
+    <!-- Erreurs -->
+    <string name="error_no_files">Aucun fichier sélectionné</string>
+    <string name="error_invalid_code">Code invalide</string>
+    <string name="error_connection_failed">Connexion échouée</string>
+    <string name="error_transfer_failed">Transfert échoué</string>
+    <string name="error_room_not_found">Salle non trouvée</string>
+    <string name="error_room_expired">Code expiré (10 minutes)</string>
+
+    <!-- Notifications -->
+    <string name="notif_transfer_complete">Transfert terminé</string>
+    <string name="notif_transfer_failed">Transfert échoué</string>
+    <string name="notif_file_received">Fichier reçu de %s</string>
+
+    <!-- Wi-Fi Direct -->
+    <string name="wifi_direct_title">Wi-Fi Direct</string>
+    <string name="wifi_direct_enabled">Mode hors-ligne activé</string>
+    <string name="wifi_direct_searching">Recherche d'appareils...</string>
+    <string name="wifi_direct_found">Appareil trouvé</string>
+    <string name="wifi_direct_connecting">Connexion en cours...</string>
+    <string name="wifi_direct_connected">Connecté en direct</string>
+</resources>
